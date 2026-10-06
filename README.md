@@ -33,7 +33,7 @@ When the browser tab opens to VS Code, open the `style.css` file in the file exp
 
 ### **What Is It?**
 
-Codespaces is a development environment that runs entirely in your browser. Instead of installing software on your own computer, you get a virtual computer in the cloud — pre-configured and ready to code — that you access through a web browser. Microsoft (which owns GitHub) hosts it, and NYU provides access through the GitHub Education Student Pack.
+Codespaces is a development environment that runs entirely in your browser. Instead of installing software on your own computer, you get a virtual computer in the cloud — pre-configured and ready to code — that you access through a web browser. Microsoft (which owns GitHub) hosts it.
 
 ### **What It Saves Us From**
 
